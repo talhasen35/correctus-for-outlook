@@ -90,8 +90,8 @@
           <bt:Image id="Icon.80x80" DefaultValue="https://talhasen35.github.io/correctus-for-outlook/assets/icon-80.png"/>
         </bt:Images>
         <bt:Urls>
-          <bt:Url id="Commands.Url" DefaultValue="https://YOUR-HOST/commands.html"/>
-          <bt:Url id="CommandsJs.Url" DefaultValue="https://YOUR-HOST/commands.js"/>
+          <bt:Url id="Commands.Url" DefaultValue="https://talhasen35.github.io/correctus-for-outlook/commands.html"/>
+          <bt:Url id="CommandsJs.Url" DefaultValue="https://talhasen35.github.io/correctus-for-outlook/commands.js"/>
         </bt:Urls>
         <bt:ShortStrings>
           <bt:String id="GroupLabel" DefaultValue="Typo Fixer"/>
